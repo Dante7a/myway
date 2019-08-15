@@ -1,0 +1,2 @@
+# myway
+For learn Git
